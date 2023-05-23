@@ -5,6 +5,7 @@ module.exports = {
     name: "@storybook/react-vite",
     options: {}
   },
+  
   "features": {
     "storyStoreV7": true
   },
